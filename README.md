@@ -24,5 +24,6 @@ In this section, we created a report to show the perfromance ratings with respec
 
 ## 4. Expression of Minimun salary 
 
+With a recent regulation requiring manufacturing companies to pay a minimum salary of $90,000, we sought to verify if Palmoria's HR pay policies were policies were compliant. To this effect, we created a measure to filter and count employees below the minimum wage. Then we presented the results on a
 ![Analysis 4](https://github.com/user-attachments/assets/18489824-1550-4b4a-9580-073e054262c0)
 
