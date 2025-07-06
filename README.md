@@ -4,4 +4,6 @@ This case study highlights a key gender gap concern for a Nigerian based manufac
 
 This analysis was carried out using data and insights from some of the managers, and we deployed a business intelligence tool [POWER BI](https://www.microsoft.com/en-us/download/details.aspx?id=58494) to present results that will aid the management address the gender related issues, if any.
 
-The managers provided specific areas of concern, which we took a deep dive into and the analysis are presented below.
+The managers provided specific areas of concern, which we took a deep dive into and the analysis are presented below using the respective pointers.
+
+## 1. Gender Distribution Analysis (Departmental/Regional)
