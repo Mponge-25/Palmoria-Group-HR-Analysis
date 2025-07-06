@@ -7,3 +7,5 @@ This analysis was carried out using data and insights from some of the managers,
 The managers provided specific areas of concern, which we took a deep dive into and the analysis are presented below using the respective pointers.
 
 ## 1. Gender Distribution Analysis (Departmental/Regional)
+
+The first case scenario was to visualize the gender situation of the company with respect to the different departments in different regions. Here, we reported using 
