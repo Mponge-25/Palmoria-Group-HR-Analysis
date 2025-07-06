@@ -42,4 +42,3 @@ To adress the allocation of bonuses to individual employees, we retrieved data f
 3. Brought insight on the gender gap conditions of the company in terms of salary, location and ratings.
 4. Created visuals to enable management view properly and adjust/update parameters to defend the "patriarchy" tag.
 
-[Palmoria HR Analysis File]()
